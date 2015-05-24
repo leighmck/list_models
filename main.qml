@@ -4,7 +4,7 @@ import QtQuick.Window 2.2
 Window {
     visible: true
 
-    ListViewDelegate {
+    ShapeShifting {
         anchors.fill: parent
         }
 
